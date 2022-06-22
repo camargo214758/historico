@@ -12,5 +12,5 @@ $bd_name = 'historico';
     echo 'erro';
  }
 
-
+// feito publicação
 ?>
